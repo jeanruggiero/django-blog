@@ -1,0 +1,11 @@
+Ubuntu Server Username: py230admin
+Ubuntu Server Password: vdNgp6t#XmRhMRv6n
+Ubuntu Server DNS String: py230-ubtuntu009002.westus.cloudapp.azure.com
+Ubuntu Server SSH Port: 22
+Postgres Server Username: postgres
+Postgres Server Password: 8dB8t!c7bFHFnThYw
+Postgres Server DNS String: python-230-postgresql-4001.westus.cloudapp.azure.com
+Postgres Server Database Name: djangoblog
+Your GitHub Blog Repository Name: 'django-blog'
+New Secret Key: 7Cyw2pbFAsDhj9HANmfLkyc36gCzsGS2nprF8ULnfdRWE74qA9
+Database URL: postgres://postgres:8dB8t!c7bFHFnThYw@py230-ubtuntu009002.westus.cloudapp.azure.com:5432/djangoblog
